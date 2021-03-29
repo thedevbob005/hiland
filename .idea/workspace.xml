@@ -3,8 +3,8 @@
   <component name="ChangeListManager">
     <list default="true" id="4ca553c0-eb4f-4656-b4d5-9fffb70ec51e" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/style.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/js/script.js" beforeDir="false" afterPath="$PROJECT_DIR$/js/script.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -29,11 +29,11 @@
     <property name="nodejs_package_manager_path" value="npm" />
   </component>
   <component name="RecentsManager">
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="C:\Projects\darcyripper\world5.commonsupport.com\html\homestate" />
-    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Projects\darcyripper\world5.commonsupport.com\html\homestate\orig" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Projects\darcyripper\world5.commonsupport.com\html\homestate" />
     </key>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
@@ -45,7 +45,7 @@
       <option name="presentableId" value="Default" />
       <updated>1616704823751</updated>
       <workItem from="1616704824812" duration="17575000" />
-      <workItem from="1617014295159" duration="6211000" />
+      <workItem from="1617014295159" duration="6835000" />
     </task>
     <servers />
   </component>
