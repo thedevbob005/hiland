@@ -2301,7 +2301,7 @@ ul,li{
 
 .testimonials-section .testimonials-slider .info-box{
 	position:relative;
-	padding:10px 0px 20px 90px;
+	padding:10px 0px 20px 0px;
 	min-height:70px;
 }
 
@@ -2468,7 +2468,7 @@ ul,li{
 
 .blog-news-column .inner-box{
 	position:relative;
-	background:#ffffff;
+	/*background:#ffffff;*/
 }
 
 .blog-news-column .image-box{
@@ -2486,7 +2486,7 @@ ul,li{
 .blog-news-column h3{
 	font-size:18px;
 	font-weight:600;
-	color:#070707;
+	color:#cccccc;
 	margin-bottom:5px;
 }
 
@@ -2505,7 +2505,7 @@ ul,li{
 }
 
 .blog-news-column h3 a{
-	color:#070707;
+	color:inherit;
 }
 
 .blog-news-column h3 a:hover,
@@ -2563,7 +2563,7 @@ ul,li{
 	padding:7px 20px;
 	border:2px solid #e0e0e0;
 	font-size:13px;
-	color:#000000;
+	color:inherit;
 	font-weight:700;
 	font-family:'Raleway',sans-serif;
 	text-transform:uppercase;
