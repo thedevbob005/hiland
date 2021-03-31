@@ -134,6 +134,9 @@
 			var target = $($(this).attr('href'));
 
 			target.parents('.tabs-box').children('.tab-buttons').children('.tab-btn').removeClass('active-btn');
+			if ($(this).data('paraimg')) {
+				target.parents('#section-details').css('background-image', $(this).data('paraimg'));
+			}
 			$(this).addClass('active-btn');
 			target.parents('.tabs-box').children('.tab-content').children('.tab').fadeOut(0);
 			target.parents('.tabs-box').children('.tab-content').children('.tab').removeClass('active-tab');
