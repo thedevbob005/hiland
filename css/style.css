@@ -630,9 +630,9 @@ ul,li{
 	top:0px;
 	width:100%;
 	padding:0px 0px;
-	background:#ffffff;
+	background:#373737;
 	z-index:0;
-	border-bottom:1px solid #cccccc;
+	border-bottom:1px solid #484848;
 	transition:all 500ms ease;
 	-moz-transition:all 500ms ease;
 	-webkit-transition:all 500ms ease;
@@ -852,7 +852,7 @@ ul,li{
 }
 
 .sticky-header .main-menu .navigation > li > a{
-	color:#181818;
+	color:#CCCCCC;
 	padding:20px 20px;
 }
 
@@ -1159,7 +1159,11 @@ ul,li{
 .main-slider .outer-box{
 	position:relative;
 	width:380px;
-	background:#ffffff;
+	/*background:#ffffff;*/
+	color:#ffffff;
+}
+.main-slider .outer-box input, .main-slider .outer-box input::placeholder {
+	color: #eeeeee;
 }
 
 .main-slider .outer-box .upper-content{
@@ -1238,11 +1242,11 @@ ul,li{
 }
 
 .main-slider .outer-box .lower-info .price{
-	font-size:36px;
+	font-size:28px;
 	line-height:36px;
 	padding:10px;
-	font-weight:700;
-	background:#2f2f2f;
+	font-weight:500;
+	border:2px solid #ff563b;
 	color:#ffffff;
 	text-align:center;
 	width:60%;
@@ -2470,6 +2474,8 @@ ul,li{
 .blog-news-column .image-box{
 	position:relative;
 	overflow:hidden;
+	width: 70%;
+	margin: 0 auto;
 }
 
 .blog-news-column .content-box{
