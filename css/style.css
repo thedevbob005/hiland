@@ -2486,7 +2486,7 @@ ul,li{
 .blog-news-column h3{
 	font-size:18px;
 	font-weight:600;
-	color:#cccccc;
+	color:#ffffff;
 	margin-bottom:5px;
 }
 
@@ -2551,7 +2551,7 @@ ul,li{
 
 .blog-news-column .content-box .text{
 	position:relative;
-	color:#888888;
+	color:#ffffff;
 	font-size:14px;
 	margin-bottom:25px;
 	line-height:1.9em;
@@ -2563,7 +2563,7 @@ ul,li{
 	padding:7px 20px;
 	border:2px solid #e0e0e0;
 	font-size:13px;
-	color:inherit;
+	color:#ffffff;
 	font-weight:700;
 	font-family:'Raleway',sans-serif;
 	text-transform:uppercase;
