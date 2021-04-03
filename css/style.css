@@ -4634,3 +4634,8 @@ blockquote.style-one{
 	background:#ff573b;
 	border-color:#ff573b;
 }
+.highted {
+	min-height: 200px;
+	background-position: center center;
+	background-size: cover;
+}

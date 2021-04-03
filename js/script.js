@@ -135,7 +135,7 @@
 
 			target.parents('.tabs-box').children('.tab-buttons').children('.tab-btn').removeClass('active-btn');
 			if ($(this).data('paraimg')) {
-				target.parents('#section-details').css('background-image', $(this).data('paraimg'));
+				$(target.parents()[4]).children('.highted').css('background-image', $(this).data('paraimg')).css('min-height', $(target.parents()[4]).children('#ee').height() + 'px');
 			}
 			$(this).addClass('active-btn');
 			target.parents('.tabs-box').children('.tab-content').children('.tab').fadeOut(0);
@@ -461,6 +461,7 @@
 	$(window).on('load', function() {
 		handlePreloader();
 		enableMasonry();
+		$('.tab-btn.active-btn').click();
 	});
 
 
